@@ -10,7 +10,7 @@ The goal is to follow a professional data analysis workflow, from understanding 
 
 - ✅ 01 - Data Understanding
 - ✅ 02 - Data Cleaning
-- ⏳ 03 - Exploratory Data Analysis
+- ✅ 03 - Exploratory Data Analysis
 - ⏳ 04 - Business Insights
 - ⏳ 05 - Final Report
 
