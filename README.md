@@ -8,11 +8,12 @@ The goal is to follow a professional data analysis workflow, from understanding 
 
 ## Current Progress
 
-- ✅ 01 - Data Understanding
-- ✅ 02 - Data Cleaning
-- ✅ 03 - Exploratory Data Analysis
-- ⏳ 04 - Business Insights
-- ⏳ 05 - Final Report
+✅ 01 - Data Understanding
+✅ 02 - Data Cleaning
+✅ 03 - Exploratory Data Analysis
+✅ 04 - Customer Segmentation (RFM Analysis)
+⏳ 05 - Business Insights
+⏳ 06 - Final Report / Dashboard
 
 ## Dataset
 
